@@ -1,6 +1,3 @@
 
 .DS_Store
-.DS_Store
-.DS_Store
-ToDoList/Pods/Realm/core/realm-monorepo.xcframework/ios-arm64_x86_64_i386-simulator/librealm-monorepo.a
-*.a
+ToDoList/Pods/
