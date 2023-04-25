@@ -199,10 +199,7 @@ class MainVC: UIViewController {
         }
     }
     
-//    func sort() {
-//        var array = [Users]()
-//        array.sort(by: <)
-//    }
+
     
     func getSystemTime() -> String {
         let currentDate = Date()

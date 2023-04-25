@@ -5,6 +5,7 @@ target 'ToDoList' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-pod 'RealmSwift' 
+ pod 'Realm' ,'10.38.0'
+ pod 'RealmSwift' ,'10.38.0'
 
 end

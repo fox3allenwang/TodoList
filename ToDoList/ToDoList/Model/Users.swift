@@ -5,7 +5,6 @@
 //  Created by Wang Allen on 2021/10/1.
 //
 
-import Foundation
 import RealmSwift
 
 class Users: Object, Comparable{
